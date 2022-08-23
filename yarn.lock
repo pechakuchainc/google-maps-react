@@ -2743,6 +2743,11 @@
     "pify" "^2.0.0"
     "pinkie-promise" "^2.0.0"
 
+"google-maps-react@^2.0.6":
+  "integrity" "sha512-M8Eo9WndfQEfxcmm6yRq03qdJgw1x6rQmJ9DN+a+xPQ3K7yNDGkVDbinrf4/8vcox7nELbeopbm4bpefKewWfQ=="
+  "resolved" "https://registry.npmjs.org/google-maps-react/-/google-maps-react-2.0.6.tgz"
+  "version" "2.0.6"
+
 "got@^6.7.1":
   "integrity" "sha1-JAzQV4WpoY5WHcG0S0HHY+8ejbA="
   "resolved" "https://registry.npmjs.org/got/-/got-6.7.1.tgz"
@@ -4870,7 +4875,7 @@
   "resolved" "https://registry.npmjs.org/react-deep-force-update/-/react-deep-force-update-1.1.1.tgz"
   "version" "1.1.1"
 
-"react-dom@^15.0.0":
+"react-dom@^15.0.0", "react-dom@~0.14.8 || ^15.0.0 || ^16.0.0":
   "integrity" "sha1-LLDtQZEDjlPCCes6eaI+Kkz5lHA="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-15.6.1.tgz"
   "version" "15.6.1"
@@ -4931,7 +4936,7 @@
     "global" "^4.3.0"
     "react-proxy" "^1.1.7"
 
-"react@^15.0.0":
+"react@^15.0.0", "react@~0.14.8 || ^15.0.0 || ^16.0.0":
   "integrity" "sha1-uqhDTsZ4C96ZfNw4C3nNM7ljk98="
   "resolved" "https://registry.npmjs.org/react/-/react-15.6.1.tgz"
   "version" "15.6.1"
